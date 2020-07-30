@@ -1,0 +1,10 @@
+html {
+    color: white;
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+h1 { 
+    text-align: center;
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 60px;
+}
