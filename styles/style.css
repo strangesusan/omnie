@@ -2,9 +2,53 @@ html {
     color: white;
     background-color: black;
     font-family: 'Roboto', sans-serif;
+    margin-left: 0px;
 }
 h1 { 
     text-align: center;
     font-family: 'UnifrakturMaguntia', cursive;
     font-size: 60px;
+    color:black;
+}
+img { width: 500px;
+    height: 400px;
+    margin-left: 20px;
+}
+h3, h2, p, footer {
+    text-align: center;
+}
+header {
+    background-color: green;
+    height: 150px;
+    padding-top: 20px;
+}
+article {
+    background-color: green;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: black;
+}
+div {
+    background-color: green;
+    color: black;
+}
+   
+footer {
+    background-color: black;
+    color: green;
+    padding-top: 40px;
+}
+body {
+    margin: 0px;
+}
+.trzy {
+    background-color: black;
+    padding: 10px;
+    color: green;
+}
+.jeden {
+    height: 100px;
+}
+h2 {
+    padding-top: 5px;
 }
