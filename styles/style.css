@@ -2,53 +2,66 @@ html {
     color: white;
     background-color: black;
     font-family: 'Roboto', sans-serif;
-    margin-left: 0px;
 }
-h1 { 
-    text-align: center;
-    font-family: 'UnifrakturMaguntia', cursive;
-    font-size: 60px;
-    color:black;
-}
-img { width: 500px;
-    height: 400px;
-    margin-left: 20px;
+body {
+    margin: 0%;
 }
 h3, h2, p, footer {
     text-align: center;
 }
+h1 { 
+    text-align: center;
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 400%;
+    color:black;
+}
+.tytuł1 {
+    padding-top: 1%;
+}
+.tytuł2 {
+    padding-top: 2%;
+}
 header {
     background-color: green;
-    height: 150px;
-    padding-top: 20px;
+    height: 40%;
+    padding-bottom: 1%;
+    padding-top: 1%;
 }
 article {
     background-color: green;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 10%;
+    margin-right: 10%;
     color: black;
+}
+.jeden {
+    height: 100%;
+    padding-bottom: 2%;
+    margin-top: 10%;
+}
+.dwa {
+    background-color: black;
+    color: green;
+    padding: 1%;
 }
 div {
     background-color: green;
     color: black;
+    height: 40%;
+    margin: 10%;
 }
-   
+img {
+    width: 31%;
+    height: 300px;
+    object-fit: fill;
+    padding: 1%;
+}
 footer {
     background-color: black;
     color: green;
-    padding-top: 40px;
+    margin-top: 20%;
 }
-body {
-    margin: 0px;
+.cztery {
+    padding: 2%;
 }
-.trzy {
-    background-color: black;
-    padding: 10px;
-    color: green;
-}
-.jeden {
-    height: 100px;
-}
-h2 {
-    padding-top: 5px;
-}
+
+
